@@ -35,7 +35,7 @@
 		<commons-dbcp.version>1.4</commons-dbcp.version>
 
 		<!-- Database -->
-		<mysql.version>5.1.47</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 
 		<!-- Tiles Framework -->
 		<tiles-version>3.0.5</tiles-version>
