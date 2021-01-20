@@ -40,7 +40,7 @@
 		<!-- Tiles Framework -->
 		<tiles-version>3.0.5</tiles-version>
 
-		<jackson.version>2.9.6</jackson.version>
+		<jackson.version>2.12.1</jackson.version>
 
 		<!-- Logging -->
 		<org.slf4j-version>1.7.21</org.slf4j-version>
