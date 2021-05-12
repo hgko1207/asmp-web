@@ -22,7 +22,7 @@
 		<!-- Spring : test, core, context, aop, jdbc -->
 		<org.springframework-version>4.3.18.RELEASE</org.springframework-version>
 
-		<spring.security.version>4.2.7.RELEASE</spring.security.version>
+		<spring.security.version>5.2.10.RELEASE</spring.security.version>
 
 		<!-- Spring Data JPA -->
 		<springframework-data.version>1.11.14.RELEASE</springframework-data.version>
